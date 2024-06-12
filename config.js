@@ -1,6 +1,6 @@
 
-export const DOMAIN = 'http://localhost:3000';
-// export const DOMAIN = 'https://www.blackclovermanga.in.net';
+// export const DOMAIN = 'http://localhost:3000';
+export const DOMAIN = 'https://www.blackclovermanga.in.net';
 
 export const MANGA_DESCRIPTION = `<a href="${DOMAIN}"><u>Black Clover</u></a> is an anime about two orphans, Asta and Yuno, who dream of becoming the Wizard King. In a world full of magic, Asta has none, but he works hard and gets a unique anti-magic power. Yuno, on the other hand, is a natural talent with strong magic. The show follows their exciting adventures and battles as they aim to reach their goal.`
 
