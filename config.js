@@ -29,7 +29,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] w-[2
 export const APP_NAME = 'Black Clover';
 export const NavbarName = "Black Clover";
 
-export const APP_DESCRIPTION = `Read "${MANGA_NAME}" manga online at "${DOMAIN}". Enjoy high-quality scans, latest chapters, and connect with fans in our vibrant community.`;
+export const APP_DESCRIPTION = `Read "${MANGA_NAME}" manga online at ${DOMAIN}. Enjoy high-quality scans, latest chapters, and connect with fans in our vibrant community.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
